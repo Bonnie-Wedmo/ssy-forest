@@ -1,22 +1,22 @@
 {
   "site": {
     "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "title": "ssyForest",
+    "description": "这是傻傻鱼的森林。",
+    "keywords": "ssy,blog",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
-    "appleTouchIcon": "/apple-touch-icon.png"
+    "favicon": "/favicon.ico?v=clover-1",
+    "appleTouchIcon": "/apple-touch-icon.png?v=clover-1"
   },
   "author": {
-    "name": "lxchapu",
-    "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "name": "ssy",
+    "twitterId": "@ssy",
+    "avatar": "/avatar-red-panda.png"
   },
   "hero": {
     "name": "傻傻鱼",
-    "bio": "欢迎来到傻傻鱼的小森林！",
-    "description": "快来和我一起探索这篇有趣的土地吧~",
+    "bio": "欢迎来到傻傻鱼的森林！",
+    "description": "快来和我一起探索这片有趣的土地吧~",
     "socials": [
       {
         "name": "Github",
@@ -33,7 +33,7 @@
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "mailto:2228783458@qq.com",
         "color": "rgb(212, 70, 56)"
       }
     ],

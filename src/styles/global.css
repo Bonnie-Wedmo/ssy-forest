@@ -22,7 +22,7 @@
 
 ::selection {
   background-color: theme('colors.accent');
-  color: white;
+  color: rgb(222, 248, 224);
 }
 
 [data-theme='dark'] ::selection {

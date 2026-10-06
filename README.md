@@ -1,16 +1,30 @@
-# Gyoza
-
-Gyoza is a static blog template built with Astro and React.
+# 傻傻鱼的森林
 
 ![astro version](https://img.shields.io/badge/astro-4.6-red)
 ![node version](https://img.shields.io/badge/node-18.18-green)
 
-Demo Site:
+blog:
 
 - [gyoza.lxchapu.com](https://gyoza.lxchapu.com)
 - [www.lxchapu.com](https://www.lxchapu.com)
 
-Enjoy it!
+Welcome!
+
+## 傻傻鱼是谁？
+
+傻傻鱼是一只小熊猫。/它的小脑瓜不大好使，故名“傻傻”
+
+喜欢吃东西和探索新事物！
+
+它在这片森林里留下了探索的足迹...
+
+## 为什么要种树？
+
+在AI的帮助下，快速上手新知并获得产出似乎变得格外容易。
+
+但，这些知识我真的学会了吗、理解了吗？离开了AI的指导，我是否还会操作呢？我究竟是真正的学习者，还是AI的指挥员呢？…傻傻鱼想不明白。
+
+于是它决定把思考和理解进行输出，用以检验是否真的学“懂”了...也与其他小动物一起交流、共同进步！（摇尾巴！）
 
 ## 📷 Screenshots
 
